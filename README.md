@@ -11,6 +11,7 @@ Besides Programming, I love entrepreneurship and management. I'm focus at **Node
 
 
 ### Technologies
+  
   - [<img height="20" src="https://user-images.githubusercontent.com/59494158/93822357-7d5e7f80-fc36-11ea-87e3-2a23cfba5784.png">](https://www.javascript.com/) 
   [JavaScript](https://www.javascript.com/) 
   - [<img height="20" src="https://user-images.githubusercontent.com/59494158/93822380-87807e00-fc36-11ea-9e6d-9a5e983cbb76.png">](https://www.typescriptlang.org/)
@@ -21,3 +22,5 @@ Besides Programming, I love entrepreneurship and management. I'm focus at **Node
   [React](https://reactjs.org/)
   - [<img height="20" src="https://user-images.githubusercontent.com/59494158/93822375-85b6ba80-fc36-11ea-8eea-850f714ebf92.png">](https://www.postgresql.org/) 
   [SQL](https://www.postgresql.org/) 
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luryy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

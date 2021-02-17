@@ -6,7 +6,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-yuri/)](https://www.linkedin.com/lucas-yuri/)
 
 ### About me
-I'm a **Full Stack developer** and I’m currently working at [PRTE - Tecnologias e Soluções](https://prte.com.br/).</br>
+I'm a **Full Stack developer** and I’m currently working at [Onyma - Digital](https://onyma.digital/).</br>
 Besides Programming, I love entrepreneurship and management. I'm focus at **NodeJS** and going deeper at Back-End Development.
 
 

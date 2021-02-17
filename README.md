@@ -6,21 +6,20 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-yuri/)](https://www.linkedin.com/lucas-yuri/)
 
 ### About me
-I'm a **Full Stack developer** and I’m currently working at [Onyma - Digital](https://onyma.digital/).</br>
-Besides Programming, I love entrepreneurship and management. I'm focus at **NodeJS** and going deeper at Back-End Development.
+I'm a **Back-End Developer** and I’m currently working at [Onyma - Digital](https://onyma.digital/).
+I'm focus at **NodeJS** and going deeper at Software Architecture, always learning how to build Reliable, Scalable, and Maintainable Applications. </br>
+Besides Programming, I love entrepreneurship, management and Chess. If you want to play against me, just clik in this [Link](https://www.chess.com/register?friend=79613210)
 
 
 ### Technologies
   
-  - [<img height="20" src="https://user-images.githubusercontent.com/59494158/93822357-7d5e7f80-fc36-11ea-87e3-2a23cfba5784.png">](https://www.javascript.com/) 
-  [JavaScript](https://www.javascript.com/) 
   - [<img height="20" src="https://user-images.githubusercontent.com/59494158/93822380-87807e00-fc36-11ea-9e6d-9a5e983cbb76.png">](https://www.typescriptlang.org/)
   [TypeScript](https://www.typescriptlang.org/) 
   - [<img height="20" src="https://user-images.githubusercontent.com/59494158/93822362-80597000-fc36-11ea-8ab8-4f0141bf6f6d.png">](https://nodejs.org/en/) 
   [NodeJS](https://nodejs.org/en/)
-  - [<img height="20" src="https://user-images.githubusercontent.com/59494158/93822366-83546080-fc36-11ea-9614-76d174b1b2f4.png">](https://reactjs.org/) 
-  [React](https://reactjs.org/)
   - [<img height="20" src="https://user-images.githubusercontent.com/59494158/93822375-85b6ba80-fc36-11ea-8eea-850f714ebf92.png">](https://www.postgresql.org/) 
   [SQL](https://www.postgresql.org/) 
+  - [<img height="20" src="https://user-images.githubusercontent.com/59494158/108262853-4092a800-7144-11eb-8fa6-cd0f7e5715b2.jpeg">](https://www.mongodb.com/3) 
+  [NoSQL](https://www.mongodb.com/3)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luryy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

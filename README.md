@@ -2,8 +2,10 @@
 
 #### I'm Lucas! But you can call me Luryy
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/luryy)](https://github.com/luryy)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-yuri/)](https://www.linkedin.com/in/lucas-yuri/)
+[![Medium Badge](https://img.shields.io/badge/-Medium-white?style=flat-square&logo=Medium&logoColor=black&link=https://lucas-yuri.medium.com/)](https://lucas-yuri.medium.com/)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/luryy)](https://github.com/luryy)
+
 
 ### About me
 I'm a **Back-End Developer** and I’m currently working at [Onyma - Digital](https://onyma.digital/).

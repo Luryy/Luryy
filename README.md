@@ -23,7 +23,6 @@ Besides Programming, I love entrepreneurship, management and Chess. If you want 
   [NoSQL](https://www.mongodb.com/3)</code>
   <br/>
   <br/>
-  <br/>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luryy&layout=compact" />
   </a>

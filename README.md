@@ -12,14 +12,19 @@ Besides Programming, I love entrepreneurship, management and Chess. If you want 
 
 
 ### Technologies
+
+  <code>[<img height="20" src="https://user-images.githubusercontent.com/59494158/93822380-87807e00-fc36-11ea-9e6d-9a5e983cbb76.png">](https://www.typescriptlang.org/)
+  [TypeScript](https://www.typescriptlang.org/)</code>
+  <code>[<img height="20" src="https://user-images.githubusercontent.com/59494158/93822362-80597000-fc36-11ea-8ab8-4f0141bf6f6d.png">](https://nodejs.org/en/) 
+  [NodeJS](https://nodejs.org/en/)</code>
+  <code>[<img height="20" src="https://user-images.githubusercontent.com/59494158/93822375-85b6ba80-fc36-11ea-8eea-850f714ebf92.png">](https://www.postgresql.org/) 
+  [SQL](https://www.postgresql.org/)</code>
+  <code>[<img height="20" src="https://user-images.githubusercontent.com/59494158/108262853-4092a800-7144-11eb-8fa6-cd0f7e5715b2.jpeg">](https://www.mongodb.com/3) 
+  [NoSQL](https://www.mongodb.com/3)</code>
+  <br/>
+  <br/>
+  <br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luryy&layout=compact" />
+  </a>
   
-  - [<img height="20" src="https://user-images.githubusercontent.com/59494158/93822380-87807e00-fc36-11ea-9e6d-9a5e983cbb76.png">](https://www.typescriptlang.org/)
-  [TypeScript](https://www.typescriptlang.org/) 
-  - [<img height="20" src="https://user-images.githubusercontent.com/59494158/93822362-80597000-fc36-11ea-8ab8-4f0141bf6f6d.png">](https://nodejs.org/en/) 
-  [NodeJS](https://nodejs.org/en/)
-  - [<img height="20" src="https://user-images.githubusercontent.com/59494158/93822375-85b6ba80-fc36-11ea-8eea-850f714ebf92.png">](https://www.postgresql.org/) 
-  [SQL](https://www.postgresql.org/) 
-  - [<img height="20" src="https://user-images.githubusercontent.com/59494158/108262853-4092a800-7144-11eb-8fa6-cd0f7e5715b2.jpeg">](https://www.mongodb.com/3) 
-  [NoSQL](https://www.mongodb.com/3)
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luryy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

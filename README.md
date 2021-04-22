@@ -6,12 +6,16 @@
 [![Medium Badge](https://img.shields.io/badge/-Medium-white?style=flat-square&logo=Medium&logoColor=black&link=https://lucas-yuri.medium.com/)](https://lucas-yuri.medium.com/)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/luryy)](https://github.com/luryy)
 
-
 ### About me
 I'm a **Back-End Developer** and I’m currently working at [Onyma - Digital](https://onyma.digital/).
 I'm focus at **NodeJS** and going deeper at Software Architecture, always learning how to build Reliable, Scalable, and Maintainable Applications. </br>
-Besides Programming, I love entrepreneurship, management and Chess. If you want to play against me, just clik in this [Link](https://www.chess.com/register?friend=79613210)
 
+I believe that the best ways to learn is:
+  - **Doing** - Practise is everything! All things that I study, I try to implement something useful. So you could check my repositories where have many implementations, studies and templates with a describable _ReadME_. 
+  - **Teaching** - Teach is the best way to review what you've learned and fix it. Because of it I'm always trying to teach what I did. So you check my [Medium Account](https://lucas-yuri.medium.com/) where I've great arthicles teaching about some of my repositories and programming topics (Node, Git, Event-services...)
+
+Besides Programming, I love entrepreneurship, management and Chess. If you want to play against me, just clik in this [Link](https://www.chess.com/register?friend=79613210)
+</br>
 
 ### Technologies
 

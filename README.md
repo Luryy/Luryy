@@ -19,15 +19,15 @@ Besides Programming, I love entrepreneurship, management and Chess. If you want 
 
 ### Technologies
 
-  <code>[<img height="20" src="https://user-images.githubusercontent.com/59494158/93822380-87807e00-fc36-11ea-9e6d-9a5e983cbb76.png">](https://www.typescriptlang.org/)
+  <code>[<img height="20" width="20" src="https://user-images.githubusercontent.com/59494158/93822380-87807e00-fc36-11ea-9e6d-9a5e983cbb76.png">](https://www.typescriptlang.org/)
   [TypeScript](https://www.typescriptlang.org/)</code>
-  <code>[<img height="20" src="https://user-images.githubusercontent.com/59494158/93822362-80597000-fc36-11ea-8ab8-4f0141bf6f6d.png">](https://nodejs.org/en/) 
+  <code>[<img height="20" width="20" src="https://user-images.githubusercontent.com/59494158/93822362-80597000-fc36-11ea-8ab8-4f0141bf6f6d.png">](https://nodejs.org/en/) 
   [NodeJS](https://nodejs.org/en/)</code>
-  <code>[<img height="20" src="https://user-images.githubusercontent.com/59494158/93822375-85b6ba80-fc36-11ea-8eea-850f714ebf92.png">](https://www.postgresql.org/) 
+  <code>[<img height="20" width="20" src="https://user-images.githubusercontent.com/59494158/93822375-85b6ba80-fc36-11ea-8eea-850f714ebf92.png">](https://www.postgresql.org/) 
   [SQL](https://www.postgresql.org/)</code>
-  <code>[<img height="20" src="https://user-images.githubusercontent.com/59494158/108262853-4092a800-7144-11eb-8fa6-cd0f7e5715b2.jpeg">](https://www.mongodb.com/3) 
+  <code>[<img height="20" width="20" src="https://user-images.githubusercontent.com/59494158/108262853-4092a800-7144-11eb-8fa6-cd0f7e5715b2.jpeg">](https://www.mongodb.com/3) 
   [NoSQL](https://www.mongodb.com/3)</code>
-  <code>[<img height="20" src="https://user-images.githubusercontent.com/59494158/115739050-fad0a680-a363-11eb-9f13-29662808c435.png">](https://www.docker.com) 
+  <code>[<img height="20" width="20" src="https://user-images.githubusercontent.com/59494158/115739050-fad0a680-a363-11eb-9f13-29662808c435.png">](https://www.docker.com) 
   [Docker](https://www.docker.com)</code>
   <br/>
   <br/>

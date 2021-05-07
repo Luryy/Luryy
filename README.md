@@ -38,6 +38,6 @@ Besides Programming, I love entrepreneurship, management and Chess. If you want 
   ### Repositories :octocat:
   
   #### Base
-  These repositories contains the base of programming or technologie
+  These repositories contains the base of programming or technology
   - [42-Basecamp](https://github.com/Luryy/42-Basecamp) - This repository you could check the basis of **C**.
   - [NodeJs](https://github.com/Luryy/NodeJs) - This repository you could check my initial base learning about **NodeJs**.

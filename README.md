@@ -6,7 +6,7 @@
 [![Medium Badge](https://img.shields.io/badge/-Medium-white?style=flat-square&logo=Medium&logoColor=black&link=https://lucas-yuri.medium.com/)](https://lucas-yuri.medium.com/)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/luryy)](https://github.com/luryy)
 
-### About me
+### About me :page_facing_up:
 I'm a **Back-End Developer** and I’m currently working at [Onyma - Digital](https://onyma.digital/).
 I'm focus at **NodeJS** and going deeper at Software Architecture, always learning how to build Reliable, Scalable, and Maintainable Applications. </br>
 
@@ -17,7 +17,7 @@ I believe that the best ways to learn is:
 Besides Programming, I love entrepreneurship, management and Chess. If you want to play against me, just clik in this [Link](https://www.chess.com/register?friend=79613210)
 </br>
 
-### Technologies
+### Technologies :rocket:
 
   <code>[<img height="20" width="20" src="https://user-images.githubusercontent.com/59494158/93822380-87807e00-fc36-11ea-9e6d-9a5e983cbb76.png">](https://www.typescriptlang.org/)
   [TypeScript](https://www.typescriptlang.org/)</code>
@@ -35,3 +35,9 @@ Besides Programming, I love entrepreneurship, management and Chess. If you want 
     <img align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luryy&layout=compact" />
   </a>
   
+  ### Repositories :octocat:
+  
+  #### Base
+  These repositories contains the base of programming or technologie
+  - [42-Basecamp](https://github.com/Luryy/42-Basecamp) - This repository you could check the basis of **C**.
+  - [NodeJs](https://github.com/Luryy/NodeJs) - This repository you could check my initial base learning about **NodeJs**.

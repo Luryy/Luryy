@@ -7,7 +7,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/luryy)](https://github.com/luryy)
 
 ### About me :page_facing_up:
-I'm a **Back-End Developer** and I’m currently working at [Onyma - Digital](https://onyma.digital/).
+I'm a **Back-End Developer** and I’m currently working at [Olist](https://olist.com/).
 I'm focus at **NodeJS** and going deeper at Software Architecture, always learning how to build Reliable, Scalable, and Maintainable Applications. </br>
 
 I believe that the best ways to learn is:
@@ -39,5 +39,5 @@ Besides Programming, I love entrepreneurship, management and Chess. If you want 
   
   #### Base
   These repositories contains the base of programming or technology
-  - [42-Basecamp](https://github.com/Luryy/42-Basecamp) - This repository you could check the basis of **C**.
+  - [42-Basecamp](https://github.com/Luryy/42-Basecamp) [42-Cursus](https://github.com/Luryy/42-Cursus) - These repositories you could check the basis of **C**.
   - [NodeJs](https://github.com/Luryy/NodeJs) - This repository you could check my initial base learning about **NodeJs**.

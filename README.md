@@ -17,7 +17,7 @@ I believe that the best ways to learn is:
 Besides Programming, I love entrepreneurship, management and Chess. If you want to play against me, just clik in this [Link](https://www.chess.com/register?friend=79613210)
 </br>
 
-### Technologies :rocket:
+### Main Technologies :rocket:
 
   <code>[<img height="20" width="20" src="https://user-images.githubusercontent.com/59494158/93822380-87807e00-fc36-11ea-9e6d-9a5e983cbb76.png">](https://www.typescriptlang.org/)
   [TypeScript](https://www.typescriptlang.org/)</code>
@@ -32,17 +32,14 @@ Besides Programming, I love entrepreneurship, management and Chess. If you want 
   <br/>
   <br/>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luryy&layout=compact" />
+    <img align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luryy&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
   </a>
+  <br/>
+  <br/>
+
+  ### 42 Cursus <img aling="center" src="https://user-images.githubusercontent.com/59494158/177217591-996bec41-5115-4045-9745-921d2ec8865c.png" width="30"  />
   
-  ### Repositories :octocat:
+  > Check the repository below to see my progress and all of my projects developed at <a href="https://42.fr/en/homepage/">École 42</a>
   
-  #### Base
-  
-  <details>
-  <summary>These repositories contains the base of programming or technology</summary>
-  <ul>
-    <li> <a href="https://github.com/Luryy/42-Basecamp">42-Basecamp</a> & <a href="https://github.com/Luryy/42-Cursus">42-Cursus</a> - These repositories you could check the basis of <b>C</b>.</li>
-    <li> <a href="https://github.com/Luryy/NodeJs">NodeJs</a> - This repository you could check my initial base learning about <b>NodeJs</b>.</li>
-  </ul>
-   </details>
+  [![42 Cursus](https://github-readme-stats.vercel.app/api/pin/?username=luryy&repo=42-Cursus&show_owner=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/luryy/42-cursus) 
+
